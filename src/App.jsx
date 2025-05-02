@@ -35,7 +35,7 @@ const App = () => {
   return (
     <div className="wrapper">
       <div className="cal_title">
-        <span>Calculator</span>
+        <span>devops calculator</span>
       </div>
       <div className="cal_result mt-10">
         <span>{expression || "0"}</span>
